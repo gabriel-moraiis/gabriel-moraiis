@@ -7,9 +7,9 @@
   <a href="https://github.com/gabriel-moraiis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-moraiis&show_icons=true&theme=radical"> 
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-moraiis">
-</div>
+</div><br>
   
-  ##
+ 
 
 <div style="display: inline-block"><br>
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
