@@ -1,7 +1,7 @@
 ### Olá, sou o Gabriel Morais 👋
 
 - 🔭 Atualmente estou em busca da minha primeira vaga como dev.
-- 🌱 No momento estou estudando, React (e suas bibliotecas, react-router-dom, Redux, styled) e Typescript, já com conhecimentos em HTML, CSS E Javascript.
+- 🌱 No momento estou estudando, React e suas bibliotecas(react-router-dom, Redux, styled-components, etc...) e Typescript, já com conhecimentos em HTML, CSS E Javascript.
 
 <div>
   <a href="https://github.com/gabriel-moraiis">
